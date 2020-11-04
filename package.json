@@ -84,7 +84,8 @@
                     "description": "Glob patterns to match files that should have auto formatting enabled",
                     "default": {
                         "csv": ",",
-                        "bsv": "|"
+                        "bsv": "|",
+                        "md": "|"
                     }
                 },
                 "autoAlign.delay": {
